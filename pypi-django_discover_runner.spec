@@ -6,7 +6,7 @@
 #
 Name     : pypi-django_discover_runner
 Version  : 1.0
-Release  : 50
+Release  : 51
 URL      : https://files.pythonhosted.org/packages/d3/60/5ffffcfb2306afd1f67cb7fb820eba66033a2cb4aceda131d8f9c47ff2af/django-discover-runner-1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d3/60/5ffffcfb2306afd1f67cb7fb820eba66033a2cb4aceda131d8f9c47ff2af/django-discover-runner-1.0.tar.gz
 Source1  : https://files.pythonhosted.org/packages/d3/60/5ffffcfb2306afd1f67cb7fb820eba66033a2cb4aceda131d8f9c47ff2af/django-discover-runner-1.0.tar.gz.asc
@@ -60,7 +60,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656374098
+export SOURCE_DATE_EPOCH=1656407660
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
