@@ -6,7 +6,7 @@
 #
 Name     : pypi-django_discover_runner
 Version  : 1.0
-Release  : 51
+Release  : 52
 URL      : https://files.pythonhosted.org/packages/d3/60/5ffffcfb2306afd1f67cb7fb820eba66033a2cb4aceda131d8f9c47ff2af/django-discover-runner-1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d3/60/5ffffcfb2306afd1f67cb7fb820eba66033a2cb4aceda131d8f9c47ff2af/django-discover-runner-1.0.tar.gz
 Source1  : https://files.pythonhosted.org/packages/d3/60/5ffffcfb2306afd1f67cb7fb820eba66033a2cb4aceda131d8f9c47ff2af/django-discover-runner-1.0.tar.gz.asc
